@@ -9,10 +9,10 @@ A fast and modern e-commerce platform for computer peripherals, built with React
 
 ---
 Ecommerce-Website-Assignment-255/ 
-├── DataFetch/       # Logic for fetching data from APIs or backend 
-├── DataSeed/        # Scripts or utilities for seeding initial data
-├── Frontend/        # React + Vite frontend application 
-├── Screenshots/     # UI mockups, design references, or demo captures
+* DataFetch/       # Logic for fetching data from APIs or backend
+* DataSeed/        # Scripts or utilities for seeding initial data
+* Frontend/        # React + Vite frontend application
+* Screenshots/     # UI mockups, design references, or demo captures
 
 
 ---
