@@ -28,5 +28,5 @@ Ecommerce-Website-Assignment-255/
 * Frontend: Your main client-side application built with React and Vite.
 * Screenshots: Visual references for UI design, testing, or documentation.
 
-Refer to each folder’s README for detailed configuration and usage steps.
+Refer to each folder’s README for detailed usage steps.
 ---
