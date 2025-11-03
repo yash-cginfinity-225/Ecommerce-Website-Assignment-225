@@ -1,3 +1,4 @@
+---
 ## 🛍️ CG Infinity Webstore
 
 A fast and modern e-commerce platform for computer peripherals, built with React (Vite) and .NET.
@@ -28,3 +29,4 @@ Ecommerce-Website-Assignment-255/
 * Screenshots: Visual references for UI design, testing, or documentation.
 
 Refer to each folder’s README for detailed configuration and usage steps.
+---
