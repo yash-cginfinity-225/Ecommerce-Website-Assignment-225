@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFetch", "DataFetch.csproj", "{A14EC825-27CC-61FB-BCEF-F22D3DCCAF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14EC825-27CC-61FB-BCEF-F22D3DCCAF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14EC825-27CC-61FB-BCEF-F22D3DCCAF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14EC825-27CC-61FB-BCEF-F22D3DCCAF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14EC825-27CC-61FB-BCEF-F22D3DCCAF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7386C61C-6ACD-4094-BB0E-27B4D5A24539}
+	EndGlobalSection
+EndGlobal
