@@ -1,4 +1,4 @@
-# Copy the Repository and run these commandsi n the DataSeed Folder to setup the DB
+# Copy the Repository and run these commands in the DataSeed Folder to setup the DB
 
 * dotnet add package Microsoft.EntityFrameworkCore 
 * dotnet add package Microsoft.EntityFrameworkCore.Tools
