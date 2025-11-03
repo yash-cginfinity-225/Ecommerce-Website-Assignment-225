@@ -19,7 +19,7 @@ Ecommerce-Website-Assignment-255/
 * DataSeed/        # Scripts or utilities for seeding initial data
 * Frontend/        # React + Vite frontend application
 * Screenshots/     # UI mockups, design references, or demo captures
-
+* ScreenRecording  # Demo on how the application is running
 
 ---
 ## 🔍 Folder Overview
