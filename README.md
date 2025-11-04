@@ -4,7 +4,7 @@
 A fast and modern e-commerce platform for computer peripherals, built with React (Vite) and .NET.
 
 ---
-## 📖 Features'
+## 📖 Features
 
 * 🖥️ Browse computer peripherals like keyboards, mice, monitors, and more
 * 🔍 Search and filter products by category and price
